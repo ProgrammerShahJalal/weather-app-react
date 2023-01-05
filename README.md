@@ -1,8 +1,2 @@
-# How to use the project
-
-- Clone
-- Install dependencies (npm i)
-- Get your API key and add to weatherService.js
-- Enjoy!!
-
-> Leave a star :)
+#Live site
+https://loquacious-rabanadas-4d30d5.netlify.app/
